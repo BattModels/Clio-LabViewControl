@@ -2,4 +2,4 @@
 
 LabView control suite for Clio instrument.
 
-![](figures/clio_image.png?raw=true)
+![](figures/clio_diagram_upgraded.pdf?raw=true)
